@@ -1,2 +1,0 @@
-# maqueen
-Ein Makecode-Projekt
