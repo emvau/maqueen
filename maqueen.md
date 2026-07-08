@@ -14,7 +14,7 @@ Drücke dann auf **Enter**.
 
 ## Schritt 3
 
-Klicke auf die Erweiterung **maqueenPlusV2** um sie zu installieren.
+Klicke auf die Erweiterung **DFRobot_MaqueenPlus_v20** um sie zu installieren.
 
 ## Schritt 4 @fullscreen
 
